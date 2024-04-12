@@ -1,0 +1,11 @@
+IMPORTANT: You can have only ONE default export in a module, whereas you can have as many named exports as you like.
+
+Named Exports
+
+- Can export multiple values
+- MUST use the exported name when importing
+
+Default Exports
+
+- Export a single value
+- Can use any name when importing
